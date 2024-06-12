@@ -3,7 +3,6 @@
 Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora backend especializada em Node.js. Aqui você encontrará alguns dos meus projetos, contribuições e experimentos com diferentes tecnologias.
 
 
-  - 🌱 Estou aprendendo mais sobre Express.js e Nest.js.
   - 👯 Estou procurando colaborar em projetos open-source e startups.
   - 💬 Pergunte-me sobre Node.js, NestJS, TypeScript, e desenvolvimento de APIs.
 
