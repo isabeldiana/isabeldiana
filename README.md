@@ -2,7 +2,6 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora backend especializada em Node.js. Aqui você encontrará alguns dos meus projetos, contribuições e experimentos com diferentes tecnologias.
 
-
   - 👯 Estou procurando colaborar em projetos open-source e startups.
   - 💬 Pergunte-me sobre Node.js, NestJS, TypeScript, e desenvolvimento de APIs.
 
@@ -14,6 +13,10 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora backend especializada 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
 
  ## Entre em Contato
 
